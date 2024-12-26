@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = C:/Users/user/Desktop/KIFIYA Projects/AlphaCare-Insurance-Solutions-Analysis
